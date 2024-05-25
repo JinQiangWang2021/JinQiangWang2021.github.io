@@ -10,8 +10,9 @@ redirect_from:
 
 <!-- <span class='anchor' id='about-me'></span> -->
 {% include_relative includes/intro.md %}
+<hr style="border: 1px solid #4B4B4B;" />
 
-If you like the template of this homepage, welcome to star and fork my open-sourced template version
+{% include_relative includes/interests.md %}
 
 <hr style="border: 1px solid #4B4B4B;" />
 
