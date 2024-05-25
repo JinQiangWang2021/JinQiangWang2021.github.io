@@ -1,4 +1,4 @@
-I work at 
+# 📝  <span style="color: #000080; font-size: 24px;">Biography</span>
 
 I graduated from [Lanzhou University](http://lzu.edu.cn) 
 

@@ -1,5 +1,5 @@
 
-# 📝 Publications 
+# 📝  <span style="color: #000080; font-size: 24px;">Publication</span>
 ## 🎙 Speech Synthesis
 
 <div class='paper-box'><div class='paper-box-image'><div><div class="badge">NeurIPS 2019</div><img src='images/papers/fs.png' alt="sym" width="100%"></div></div>
