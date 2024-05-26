@@ -1,5 +1,5 @@
 
-# 📝  <span style="color: #000080; font-size: 23px;">Publication</span>
+# 📝 <span style="color: #000080; font-size: 23px;">Publication</span>
 ## Survey:
 - [1] Jin-Qiang Wang,Hang Huang , Peng Zhi, et al. Review of Development and Key Technologies of Autonomous Driving [J]. Electronic Technology Applications, 2019,45 (06): 28-36. DOI: 10.16157/j.issn.0258-7998.199062
 
@@ -19,12 +19,8 @@
 </div>
 </div> -->
 
-- `XXX 2024` [Emotion Rendering for Conversational Speech Synthesis ](https://arxiv.org/abs/2312.11947), XXX, Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS)
+- `<span style="color: #000080; font-size: 23px;">[ACL 2024]</span>` [Emotion Rendering for Conversational Speech Synthesis ](https://arxiv.org/abs/2312.11947), XXX, Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS). <span style="color: red;">New!</span>
 
-<!-- - ``XXX 2023`` [Make-An-Audio: Text-To-Audio Generation with Prompt-Enhanced Diffusion Models](https://text-to-audio.github.io/paper.pdf), Rongjie Huang, Jiawei Huang, Dongchao Yang, **Yi Ren**, et al.-->
-<!-- - ``XXX 2023`` [CLAPSpeech: Learning Prosody from Text Context with Contrastive Language-Audio Pre-Training](), Zhenhui Ye, Rongjie Huang, **Yi Ren**, et al.-->
-<!-- - <span style="background-color: #63B8FF;">[ ACL 2023 ]</span> [AV-TranSpeech: Audio-Visual Robust Speech-to-Speech Translation](), Rongjie Huang, Huadai Liu, Xize Cheng, **Yi Ren**, et al.
-<!-- - <span style="background-color: #63B8FF;">[ ICLR 2023 ]</span> [TranSpeech: Speech-to-Speech Translation With Bilateral Perturbation](https://openreview.net/forum?id=UVAmFAtC5ye), Rongjie Huang, Jinglin Liu, Huadai Liu, **Yi Ren**, Lichao Zhang, Jinzheng He, Zhou Zhao -->
 
 
 <!-- ## Journal Papers:-->
