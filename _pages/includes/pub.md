@@ -1,5 +1,5 @@
 
-# 📝 <span style="color: #000080; font-size: 23px;">Publication</span>
+# <span style="color: #000080; font-size: 23px;">Publication</span>
 ## Survey:
 - [1] Jin-Qiang Wang,Hang Huang , Peng Zhi, et al. Review of Development and Key Technologies of Autonomous Driving [J]. Electronic Technology Applications, 2019,45 (06): 28-36. DOI: 10.16157/j.issn.0258-7998.199062
 
