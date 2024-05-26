@@ -1,6 +1,6 @@
 
 # 📖  <span style="color: #000080; font-size: 23px;">Educations</span>
-- *2021.09 - Current *, PhD and  Candidates, Lanzhou University, Lanzhou.
+- *2021.09 - Current*, PhD and  Candidates, Lanzhou University, Lanzhou.
 - *2016.09 - 2019.06*, Master, Lanzhou University, Lanzhou.
 - *2011.09 - 2016.06*, Undergraduate, Dalian JiaoTong Univeristy, Dalian.
 
