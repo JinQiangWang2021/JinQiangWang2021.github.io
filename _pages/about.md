@@ -12,7 +12,7 @@ redirect_from:
 {% include_relative includes/intro.md %}
 
 
-<hr style="border: 1px solid #4B4B4B;" />
+<hr style="border: 1px solid #4B4B4B;"/>
 
 {% include_relative includes/interests.md %}
 
@@ -25,4 +25,6 @@ redirect_from:
 <!-- <hr style="border: 1px solid #4B4B4B;" /> -->
 <!--{% include_relative includes/honers.md %}-->
 <!-- <hr style="border: 1px solid #4B4B4B;" /> -->
-<!--{% include_relative includes/others.md %} -->
+<!-- {% include_relative includes/others.md %} -->
+
+{% include_relative includes/society.md %}
