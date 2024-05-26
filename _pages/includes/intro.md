@@ -1,5 +1,5 @@
 # <span style="color: #000080; font-size: 23px">Biography</span>
-
+<hr style="border: 0.7px solid #C0C0C0;" /> 
 I graduated from [Lanzhou University](http://lzu.edu.cn) 
 
 My research interest includes speech synthesis, neural machine translation and automatic music generation. 
