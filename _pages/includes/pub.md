@@ -19,7 +19,7 @@
 </div>
 </div> -->
 
-- `<span style="color: #000080;">[ACL 2024]</span>` [Emotion Rendering for Conversational Speech Synthesis ](https://arxiv.org/abs/2312.11947), XXX, Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS). <span style="color: red;">New!</span>
+- <span style="color: #000080;">[ACL 2024]</span> [Emotion Rendering for Conversational Speech Synthesis ](https://arxiv.org/abs/2312.11947), XXX, Rui Liu, Yifan Hu, **Yi Ren**, et al. [![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS). <span style="color: red;">New!</span>
 
 
 
