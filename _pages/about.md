@@ -7,10 +7,7 @@ redirect_from:
   - /about/
   - /about.html
 ---
-
-
-
-<!-- <span class='anchor' id='about-me'></span> -->
+<span class='anchor' id='about-me'></span>
 {% include_relative includes/intro.md %}
 <hr style="border: 1px solid #C0C0C0;" />
 {% include_relative includes/interests.md %}

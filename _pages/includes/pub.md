@@ -1,4 +1,3 @@
-
 # <span style="color: #000080; font-size: 23px;">Publication</span>
 ## Survey:
 - [1] Jin-Qiang Wang,Hang Huang , Peng Zhi, et al. Review of Development and Key Technologies of Autonomous Driving [J]. Electronic Technology Applications, 2019,45 (06): 28-36. DOI: 10.16157/j.issn.0258-7998.199062
@@ -20,10 +19,9 @@
 </div> -->
 
 - <span style="color: #000080;">[ACL 2024]</span> Emotion Rendering for Conversational Speech Synthesis, XXX, Rui Liu, Yifan Hu, **Yi Ren**, et al. 
-[pdf](https://arxiv.org/abs/2312.11947),[![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS). <span style="color: red;">, New!</span>
+[pdf](https://arxiv.org/abs/2312.11947),[![](https://img.shields.io/github/stars/walker-hyf/ECSS?style=social&label=Code+Stars)](https://github.com/walker-hyf/ECSS), <span style="color: red;"> New!</span>
 
 
 
 <!-- ## Journal Papers:-->
-### 2024
 ## Preprints:
