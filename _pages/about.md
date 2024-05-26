@@ -8,20 +8,6 @@ redirect_from:
   - /about.html
 ---
 
-<!DOCTYPE html>
-<html>
-<head>
-<style>
-  body {
-    font-family: 'Georgia', serif; /* 英文字体 */
-  }
-  .chinese {
-    font-family: 'SimSun', 'NSimSun', '宋体', 'SimHei', '黑体'; /* 中文字体 */
-  }
-</style>
-</head>
-<body>
-<div class="chinese">
 
 
 <!-- <span class='anchor' id='about-me'></span> -->
