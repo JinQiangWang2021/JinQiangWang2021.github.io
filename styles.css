@@ -1,0 +1,12 @@
+body {
+    font-family: 'Arial', sans-serif;
+    background-color: #f4f6f9;
+}
+ECHO ´¦ÓÚ¹Ø±Õ×´Ì¬¡£
+.sidebar {
+    background-color: #fff;
+    height: 100vh;
+    position: fixed;
+    box-shadow: 0 2px 5px rgba(0,0,0,0.1);
+    padding-top: 30px;
+}
